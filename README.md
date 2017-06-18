@@ -2,7 +2,7 @@
 Komponent sieciowy umożliwia gromadzenie danych o graczach w trybie online.
 - - - -
 ## Użycie ##
-'http://127.0.0.1/?hash=3616D7A34B1B20A48E29AD4D910D6CED&opt=1&nick=6594'
+`http://127.0.0.1/?hash=3616D7A34B1B20A48E29AD4D910D6CED&opt=1&nick=6594`
 Gdzie: **hash**, jest to suma MD5 elementów aktualnego roku oraz miesiąc w formacie *yyyy.MM* i dodatkowo indentyfikatora użytkownika.
 **opt**, wybór opcji takich jak:
 1. Wyświetlenie danych użytkownika,
