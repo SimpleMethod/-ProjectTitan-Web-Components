@@ -12,7 +12,10 @@ Where: **Hash**, this is the sum of the MD5 elements of the current year and the
 5. Updating the number of accumulated experience points
 
 **Nick** User ID,
+
 **value** optional argument for option 3,4,5.
+
 **debugmode** optional displaying a table with data for API debugging.
+
 - - - -
 
