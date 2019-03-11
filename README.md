@@ -1,18 +1,18 @@
-# API serwerowe projektu Titan #
-Komponent sieciowy umożliwia gromadzenie danych o graczach w trybie online.
+# Titan project server API #
+The Network Component allows to collect player data online.
 - - - -
-## Użycie ##
+## Use ##
 `http://127.0.0.1/?hash=3616D7A34B1B20A48E29AD4D910D6CED&opt=1&nick=6594`
-Gdzie: **hash**, jest to suma MD5 elementów aktualnego roku oraz miesiąc w formacie *yyyy.MM* i dodatkowo indentyfikatora użytkownika.
-**opt**, wybór opcji takich jak:
-1. Wyświetlenie danych użytkownika,
-2. Dodanie nowego użytkownika,
-3. Aktualizacja ilości zabójstw,
-4. Aktualizacja ilość zgonów,
-5. Aktualizacja ilości zgromadzonych punktów doświadczenia
+Where: **Hash**, this is the sum of the MD5 elements of the current year and the month in *yyyyy.MM* format and additionally a user ID.
+**Opt**, select options such as:
+1. display user data,
+2. Adding a new user,
+3. Update the number of killings,
+4. Updating the number of deaths,
+5. Updating the number of accumulated experience points
 
-**nick** identyfikator użytkownika,
-**value** opcjonalny argument dla opcji 3,4,5.
-**debugmode** opcjonalny wyświetlający tabelę z danymi do debugowania API.
+**Nick** User ID,
+**value** optional argument for option 3,4,5.
+**debugmode** optional displaying a table with data for API debugging.
 - - - -
-Całość projektu dostępna tutaj: https://github.com/SimpleMethod/-Retail-version-ProjectTitan-
+
